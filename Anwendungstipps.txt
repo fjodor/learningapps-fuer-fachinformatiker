@@ -1,0 +1,7 @@
+Lokal testen:
+Terminal: python -m http.server
+Browser: http://localhost:8000
+
+Oder auf start_server.bat doppelklicken im Explorer
+
+Veröffentlichung über github pages
