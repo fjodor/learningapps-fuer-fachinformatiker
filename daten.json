@@ -10,5 +10,17 @@
     "stichworte": "Hardware, Software, Fachbegriffe",
     "lernfeld": "LF2",
     "link": "https://learningapps.org/21107707"
+  },
+  {
+    "thema": "Medien und Informatik: Übersicht Geschichte",
+    "stichworte": "Übersicht, Geschichte,",
+    "lernfeld": "LF2",
+    "link": "https://learningapps.org/index.php?category=10&subcategory=5822&s=&stufeStart=2&stufeEnd=4"
+  },
+  {
+   "thema": "Medien und Informatik: Übersicht Objektorientierung",
+   "stichworte": "Übersicht, Objektorientierung, OOP",
+   "lernfeld": "LF5, LF11a",
+   "link": "https://learningapps.org/index.php?category=10&subcategory=28467&s=&stufeStart=2&stufeEnd=4"
   }
 ]
