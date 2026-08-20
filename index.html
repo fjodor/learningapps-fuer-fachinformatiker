@@ -22,7 +22,7 @@
   </table>
 
 <script>
-  fetch("daten.json")
+  fetch("daten.json?v=" + Date.now())
     .then(r => r.json())
     .then(data => {
 
